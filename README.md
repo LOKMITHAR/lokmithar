@@ -3,19 +3,13 @@
 ### I'm LOKMITHAR S D,
 
 
-<img align="right" alt="desk" width="380px" src="./images/programmer.webp">
 &ensp;
 
-- `Ruby on Rails` Developer & `UI\UX` Designer.
-- a well-grounded `Rubyist`.
-- Having fun with `SVG` animations
+- `Full-Stack` Developer & `UI\UX` Designer.
+<!-- - a well-grounded `Rubyist`. -->
+<!-- - Having fun with `SVG` animations -->
 - Checkout my projects!
 
-<p>
-<a href="https://www.codewars.com/users/Sriram2311">
-<img height="25px" src="https://www.codewars.com/users/Sriram2311/badges/micro">
-</a>
-</p>
 
 <p align="left">
 <img alt="lang stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruby-ist&layout=compact&hide_border=true&bg_color=1b2731&text_color=ebdfe2&title_color=eb1622&langs_count=10&hide=procfile&exclude_repo=dice,blog">
@@ -23,7 +17,7 @@
 
 <img align="right" alt="GitHub Streak" width="480px" src="https://github-readme-streak-stats.herokuapp.com?user=ruby-ist&theme=vue-dark&hide_border=true">&ensp;
 
-
+<!-- 
 ### My stacks:
 
 <div align="left">
@@ -70,7 +64,7 @@
     <a href="https://www.sqlite.org/index.html"> <img alt=".sqlite" src="./images/sqlite.svg" width="56px" /></a> &ensp;
     <a href="https://www.postgresql.org/"> <img alt=".postgres" src="./images/postgres.svg" width="43px" /></a>
 </div>
-</div>
+</div> -->
 &ensp;
 <!-- 
 **LOKMITHAR/lokmithar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
