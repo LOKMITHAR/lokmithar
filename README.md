@@ -1,4 +1,4 @@
-## Hi!
+## *Bienvenido!*
 
 ### I'm LOKMITHAR S D,
 
@@ -10,12 +10,15 @@
 <!-- - Having fun with `SVG` animations -->
 - Checkout my projects!
 
+
+<h3><i>So much to do, So little done!</i></h3>
+
 <div>
 <p align="left">
 <img alt="lang stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokmithar&layout=compact&hide_border=true&bg_color=1b2731&text_color=ebdfe2&title_color=eb1622&langs_count=10&hide=procfile&exclude_repo=dice,blog">
 </p>
 </div>
-<img align="left" alt="GitHub Streak" width="480px" src="https://github-readme-streak-stats.herokuapp.com?user=ruby-ist&theme=vue-dark&hide_border=true">&ensp;
+<img align="left" alt="GitHub Streak" width="480px" src="https://github-readme-streak-stats.herokuapp.com?user=lokmithar&theme=dracula&hide_border=true">&ensp;
 
 <!-- 
 ### My stacks:
